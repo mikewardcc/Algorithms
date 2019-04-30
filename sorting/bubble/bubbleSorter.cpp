@@ -1,4 +1,4 @@
-#include "sorter.cpp"
+#include "../common/sorter.cpp"
 
 class BubbleSorter : public Sorter {
 private:
